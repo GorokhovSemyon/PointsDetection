@@ -9,7 +9,15 @@
 
 ## Run
 
-> $ cmake .
+> $ git clone https://github.com/GorokhovSemyon/PointsDetection.git
+
+> $ cd PointsDetection
+
+> $ mkdir build
+
+> $ cd build
+
+> $ cmake ..
 
 > $ make
 
