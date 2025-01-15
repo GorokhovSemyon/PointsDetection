@@ -2,7 +2,7 @@
 
 ## About
 
-- One of the possible implementations of finding key points in a video sequence by methods provided by OpenCV.
+- One of the possible implementations of finding points in a video sequence by methods provided by OpenCV.
 - 0 -- SIFT
 - 1 -- SURF
 - 2 -- BRISK
